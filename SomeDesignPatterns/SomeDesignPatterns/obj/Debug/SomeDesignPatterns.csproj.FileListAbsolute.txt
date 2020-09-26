@@ -1,0 +1,6 @@
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\bin\Debug\SomeDesignPatterns.exe.config
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\bin\Debug\SomeDesignPatterns.exe
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\bin\Debug\SomeDesignPatterns.pdb
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\obj\Debug\SomeDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\obj\Debug\SomeDesignPatterns.exe
+C:\Users\BRUXE-PC\Documents\Projects\5. Personal\CSharp\DesignPatterns\SomeDesignPatterns\SomeDesignPatterns\obj\Debug\SomeDesignPatterns.pdb
