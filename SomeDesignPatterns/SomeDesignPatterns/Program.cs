@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using SomeDesignPatterns.CreationalDP;
+using SomeDesignPatterns.StructuralDP;
 
 namespace SomeDesignPatterns
 {
@@ -11,12 +13,15 @@ namespace SomeDesignPatterns
     {
         static void Main(string[] args)
         {
-            // **** Singleton Sample ****
+            // **** Singleton Example ****
             //SampleSingleton();
             //SampleMultiThreadSingleton();
 
-            // **** Factory Method Sample ****
-            SampleFactoryMethod();
+            // **** Factory Method Example ****
+            //SampleFactoryMethod();
+
+            // **** Adapter Example ****
+            AdapterExample.Example1();
 
             Console.ReadKey();
         }
@@ -42,7 +47,6 @@ namespace SomeDesignPatterns
             Connection connection = ConnectionFactory.CreateConnection(DbType.Oracle);
             string connectionString = connection.GetConnectionString();
             Console.WriteLine(connectionString);
-        }
-
+        }        
     }
 }

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="StructuralDP\Adapter.cs" />
     <Compile Include="CreationalDP\FactoryMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -53,7 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BehavioralDP\" />
-    <Folder Include="StructuralDP\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
