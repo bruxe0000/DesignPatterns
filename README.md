@@ -1,7 +1,7 @@
 # SomeDesignPatterns
 
 ## A brief introduction
-Use the example helping me understand the pattern. :)))
+Some examples which help me understand the pattern. :smile:
 
 ## Prerequisite
 Assume that one should read the definition first. I would like recommend this blog: https://refactoring.guru/design-patterns
