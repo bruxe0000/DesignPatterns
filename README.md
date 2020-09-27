@@ -10,14 +10,14 @@ Assume that one should read the definition first. I would like recommend this bl
 ### Creational Patterns
 1. Factory method
 2. Single
-3. Prototype
+3. Prototype (Will introduced soon)
 
 ### Structural Patterns
 1. Adapter
-2. Farcade
+2. Farcade (Will introduced soon)
 
 ### Behavioral Patterns
-1. Strategy
+1. Strategy (Will introduced soon)
 
 ## References
 https://refactoring.guru/
