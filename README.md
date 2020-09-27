@@ -10,11 +10,11 @@ Assume that one should read the definition first. I would like recommend this bl
 ### Creational Patterns
 1. Factory method
 2. Single
-3. Prototype (Will introduced soon)
+3. Prototype
 
 ### Structural Patterns
 1. Adapter
-2. Farcade (Will introduced soon)
+2. Farcade
 
 ### Behavioral Patterns
 1. Strategy (Will introduced soon)

@@ -20,8 +20,14 @@ namespace SomeDesignPatterns
             // **** Factory Method Example ****
             //SampleFactoryMethod();
 
+            // **** Prototype Example ****
+            //PrototypeExample.AskingUyen();
+
             // **** Adapter Example ****
-            AdapterExample.Example1();
+            //AdapterExample.Example1();
+
+            // **** Farcade Example ****
+            FarcadeExample.RestaurantOrder();
 
             Console.ReadKey();
         }

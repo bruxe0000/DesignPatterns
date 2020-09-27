@@ -43,11 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreationalDP\Prototype.cs" />
     <Compile Include="StructuralDP\Adapter.cs" />
     <Compile Include="CreationalDP\FactoryMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CreationalDP\Singleton.cs" />
+    <Compile Include="StructuralDP\Farcade.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
