@@ -21,4 +21,5 @@ Assume that one should read the definition first. I would like recommend this bl
 
 ## References
 https://refactoring.guru/
+
 https://kienchu.blogspot.com/2016/06/hoc-design-pattern-qua-cac-vi-du-thuc-te.html (Vietnamese)
