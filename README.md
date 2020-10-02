@@ -11,15 +11,24 @@ Assume that one should read the definition first. I would like recommend this bl
 1. Factory method
 2. Single
 3. Prototype
+4. Abstracy Factory (will introduced soon)
+5. Builder (will introduced soon)
 
 ### Structural Patterns
 1. Adapter
 2. Farcade
 
 ### Behavioral Patterns
-1. Strategy (Will introduced soon)
+1. Strategy
+2. State (will introduced soon)
 
 ## References
 https://refactoring.guru/
 
 https://kienchu.blogspot.com/2016/06/hoc-design-pattern-qua-cac-vi-du-thuc-te.html (Vietnamese)
+
+https://www.c-sharpcorner.com/article/facade-design-pattern-using-c-sharp/
+
+https://exceptionnotfound.net/strategy-pattern-in-csharp/
+
+https://kipalog.com/posts/Design-Pattern--Prototype-Pattern---C-
