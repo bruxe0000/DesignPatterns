@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using SomeDesignPatterns.CreationalDP;
-using SomeDesignPatterns.StructuralDP;
+using SomeDesignPatterns.BehavioralDP;
 
 namespace SomeDesignPatterns
 {
@@ -27,7 +27,10 @@ namespace SomeDesignPatterns
             //AdapterExample.Example1();
 
             // **** Farcade Example ****
-            FarcadeExample.RestaurantOrder();
+            //FarcadeExample.RestaurantOrder();
+
+            // **** Stategy Example ****
+            StrategyExamples.CookingStrategy();
 
             Console.ReadKey();
         }
