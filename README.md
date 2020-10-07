@@ -32,3 +32,10 @@ https://www.c-sharpcorner.com/article/facade-design-pattern-using-c-sharp/
 https://exceptionnotfound.net/strategy-pattern-in-csharp/
 
 https://kipalog.com/posts/Design-Pattern--Prototype-Pattern---C-
+
+
+# SOLID definition and examples
+## References
+https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4
+
+https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle
