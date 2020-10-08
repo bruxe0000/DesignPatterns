@@ -11,7 +11,7 @@ Assume that one should read the definition first. I would like recommend this bl
 1. Factory method
 2. Single
 3. Prototype
-4. Abstracy Factory (will introduced soon)
+4. Abstracy Factory
 5. Builder (will introduced soon)
 
 ### Structural Patterns

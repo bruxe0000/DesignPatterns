@@ -20,6 +20,10 @@ namespace SomeDesignPatterns
             // **** Factory Method Example ****
             //SampleFactoryMethod();
 
+            // **** Abstract Method Example ****
+            AbstractFactoryExamples.BuyCar("toyota");
+            AbstractFactoryExamples.BuyCar("porsche");
+
             // **** Prototype Example ****
             //PrototypeExample.AskingUyen();
 
@@ -30,7 +34,7 @@ namespace SomeDesignPatterns
             //FarcadeExample.RestaurantOrder();
 
             // **** Stategy Example ****
-            StrategyExamples.CookingStrategy();
+            //StrategyExamples.CookingStrategy();
 
             Console.ReadKey();
         }
