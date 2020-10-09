@@ -53,7 +53,7 @@ namespace SomeDesignPatterns.CreationalDP
             {
                 if (_logFileSingleton == null)
                 {
-                    return new LogFileSingleton();
+                    _logFileSingleton = new LogFileSingleton();
                 }
                 return _logFileSingleton; 
             }
