@@ -12,7 +12,7 @@ Assume that one should read the definition first. I would like recommend this bl
 2. Single
 3. Prototype
 4. Abstracy Factory
-5. Builder (will introduced soon)
+5. Builder
 
 ### Structural Patterns
 1. Adapter

@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BehavioralDP\Strategy.cs" />
     <Compile Include="CreationalDP\AbstractFactory.cs" />
+    <Compile Include="CreationalDP\Builder.cs" />
     <Compile Include="CreationalDP\Prototype.cs" />
     <Compile Include="StructuralDP\Adapter.cs" />
     <Compile Include="CreationalDP\FactoryMethod.cs" />

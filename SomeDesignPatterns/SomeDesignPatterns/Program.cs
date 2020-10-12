@@ -21,11 +21,14 @@ namespace SomeDesignPatterns
             //SampleFactoryMethod();
 
             // **** Abstract Method Example ****
-            AbstractFactoryExamples.BuyCar("toyota");
-            AbstractFactoryExamples.BuyCar("porsche");
+            //AbstractFactoryExamples.BuyCar("toyota");
+            //AbstractFactoryExamples.BuyCar("porsche");
 
             // **** Prototype Example ****
             //PrototypeExample.AskingUyen();
+
+            // **** Builder Example ****
+            CarBuilderExampler.MakeCar();
 
             // **** Adapter Example ****
             //AdapterExample.Example1();
