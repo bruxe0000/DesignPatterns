@@ -20,7 +20,7 @@ Assume that one should read the definition first. I would like recommend this bl
 
 ### Behavioral Patterns
 1. Strategy
-2. State (will introduced soon)
+2. State
 
 ## References
 https://refactoring.guru/
