@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BehavioralDP\State.cs" />
     <Compile Include="BehavioralDP\Strategy.cs" />
     <Compile Include="CreationalDP\AbstractFactory.cs" />
     <Compile Include="CreationalDP\Builder.cs" />

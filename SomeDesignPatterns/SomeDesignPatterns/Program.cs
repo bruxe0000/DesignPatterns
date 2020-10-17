@@ -28,7 +28,7 @@ namespace SomeDesignPatterns
             //PrototypeExample.AskingUyen();
 
             // **** Builder Example ****
-            CarBuilderExampler.MakeCar();
+            //CarBuilderExampler.MakeCar();
 
             // **** Adapter Example ****
             //AdapterExample.Example1();
@@ -38,6 +38,9 @@ namespace SomeDesignPatterns
 
             // **** Stategy Example ****
             //StrategyExamples.CookingStrategy();
+
+            // **** State Example ****
+            StateExample.PlayerRun();
 
             Console.ReadKey();
         }
