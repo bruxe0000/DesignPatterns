@@ -10,6 +10,8 @@ namespace SomeDesignPatterns.StructuralDP
     /// <summary>
     /// Pros:
     /// - You can isolate your code from the complexity of a subsystem.
+    /// 
+    /// Cons:
     /// - A facade can become a "God Object" coupled to all classes of an app.
     /// </summary>
 
