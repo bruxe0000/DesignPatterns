@@ -40,7 +40,10 @@ namespace SomeDesignPatterns
             //StrategyExamples.CookingStrategy();
 
             // **** State Example ****
-            StateExample.PlayerRun();
+            //StateExample.PlayerRun();
+
+            // **** Observer Example ****
+            SampleObserver();
 
             Console.ReadKey();
         }
@@ -67,5 +70,11 @@ namespace SomeDesignPatterns
             string connectionString = connection.GetConnectionString();
             Console.WriteLine(connectionString);
         }        
+
+        static void SampleObserver()
+        {
+            Application application = new Application();
+            application.Run();
+        }
     }
 }
